@@ -1,0 +1,49 @@
+Aula 20/03 Redes Computadores
+
+1 - Você trabalha em uma empresa que presta serviços de instalação e configuração de redes em outras empresas, e lhe foi pedido que atualize os valores e os fornecedores.
+
+2 - Pesquise, na internet ou em lojas físicas especializadas, o valor dos cabos de rede coaxial e UTP (par trançado) por metro.
+
+3 - Pode ser que encontre valores diferentes, dependendo da quantidade da compra. (Por exemplo, caixa com 100 metros).
+
+4 - Registre na tabela o tipo do cabo, o local pesquisado, o valor por metro (pode ser necessário usar divisão), a forma de compra (metro, caixa de 10 metros etc.).
+
+Entregar via Git, criar uma Branche
+
+===============================================================================================================
+
+Atividade Caderno / repositório Versionamento 
+
+• Como esta atividade representa o 
+processo de versionamento no Git?
+
+• Quais foram os desafios ao tentar 
+mesclar os dois enredos da história?
+
+• Como você se sentiu ao ter de adaptar 
+ou mudar a direção da história?
+
+==============================================================================================================
+
+Atividade 26/03 Versionamento
+
+1 - Marcos trabalha com você no 
+desenvolvimento de software e está tendo o 
+primeiro contato com a ferramenta Git.
+
+2 - Ele te envia por Slack: “Olá! Preciso atualizar 
+o relatório diário de compras. Quais são os 
+comandos para clonar o repositório e subir 
+minhas alterações posteriormente?”
+
+3 - Forneça ao Marcos os comandos principais 
+de que ele precisa para executar a 
+clonagem, as alterações e, posteriormente, 
+o “push” de suas alterações.
+
+4 - Escreva uma mensagem pensando no 
+formato do Slack (chat empresarial), 
+explicando, de forma sucinta e objetiva, a 
+utilização dos comandos solicitados.
+
+==========================================================================================================
