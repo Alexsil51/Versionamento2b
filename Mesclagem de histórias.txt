@@ -1,0 +1,56 @@
+               
+
+
+
+
+
+
+
+               commit inicial
+
+	
+	Era uma vez, uma bela moça que um dia 
+estava passeando em um parque de manhã quando
+resolveu...
+
+	Comprar um sorvete. Perto do parque, tinha uma sorveteria
+nova, essa Bela moça quis experimentar o sorvete, pois todos 
+estavão falando dessa sorveteria.
+
+        Quando ela olhou para o lado viu um garoto chorando
+porque seu sorvete que havia acabado de comprar caiu no chão, 
+então a moça dacidiu comprar outro sorvete ao garoto.
+
+
+
+          commit alternativo
+
+    Havia um garoto que estava brincando no parque, enquanto sua mãe
+trabalhava no celular sentada em um banco. Ele havistou uma sorveteria,
+que aparentemente estava sendo inaugurada e quis experimentar um sorvete 
+então ele pediu para que sua mãe comprasse o sorvete para ele, sua mãe muito
+ocupada com seu trabalho entregou o dinheiro para ele e ele todo feliz foi
+comprar o sorvete. Ele chegou a sorveteria, e pediu para o senhor do balcão um
+sorvete de pistache. 
+
+	O menino estava muito alegre pelo sorvete recem comprado, quando
+saiu da loja, a poucos metros do local ele assusta-se com um latido de 
+um cachorro e acaba derubando o sorverte, e ele começa a chorar, até uma
+bela moça aparecer e comprar um outro sorverte para ele.
+
+
+
+
+	Mesclagem 
+
+
+
+	Em um belo dia uma moça estava no parque quando viu um menino
+que havia derrubado seu sorvete no chão, ela decidiu comprar outro 
+para o garoto que estava chorando muito. Ao ganhar um sorvete novo 
+o garoto agradeceu a bela moça e foi embora.
+	Mais para frente derrubou novamente o sorvete ao tentar correr de
+um cachorro, isso acabou com o dia do garoto. Chegando em casa contou para
+sua mãe do que havia acontecido, mas com o conselho de sua mão percebeu que 
+não precisava chorar por algo tão futil.
+	Com isso ficou uma passo mais maduro. 
