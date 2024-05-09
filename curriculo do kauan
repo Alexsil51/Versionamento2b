@@ -1,0 +1,57 @@
+<<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" href="visual.css">
+  <title>Meu curriculo</title>
+</head>
+<body>
+    <header>
+      <div class="meu-cabecalho">
+        <h1>Kauan da Silva Farias</h1>
+      </div>
+    </header>
+    <main>
+      <div class="container-conteudo">
+        <ul>
+          <li>
+            <h2 class="meu-titulo-conteudo">Objetivo</h2>
+            <p>Crescer no mercado de trabalho, sendo um trabalhador honesto, ajudando minha familia, amigos e na Igreja</p>
+          </li>
+          <li class="meu-titulo-conteudo">
+            <h2>Histórico Profissional</h2>
+            <p> Impressões </p>
+            <p> Ti- marketing.</p>
+          </li>
+          <li class="meu-titulo-conteudo">
+            <h2>Formação Acadêmica</h2>
+            <p> Officinas Ciee - atual - 2023.</p>
+            <p> Ensino médio/ Curso: Desenvolvimento de sistemas - cursando.</p>
+          </li>
+        </ul>
+      </div>
+      <div class="container-contato">
+        <ul>
+          <li>
+            <h2>Contato</h2>
+            <p>Endereço</p>
+            <p>55 11 xxxx-xxxx</p>
+            <p>email@gmail.com</p>
+          </li>
+          <li>
+            <h2>Competências</h2>
+            <p>Atencioso</p>
+            <p>Empatico</p>
+            <p>Evolução em aprendizado</p>
+          </li>
+        </ul>
+      </div>
+
+  </main>
+  <footer>
+    <p class="copyright">© Copyright Rafael 2022</p>
+  </footer>
+</body>
+</html>
